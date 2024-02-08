@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: OTXv2
+Version: 1.5.12
+Summary: AlienVault OTX API
+Home-page: https://github.com/AlienVault-Labs/OTX-Python-SDK
+Author: AlienVault Team
+Author-email: otx@alienvault.com
+License: UNKNOWN
+Download-URL: https://github.com/AlienVault-Labs/OTX-Python-SDK/tarball/1.5.12
+Platform: UNKNOWN
+Requires-Dist: requests
+Requires-Dist: python-dateutil
+Requires-Dist: pytz
+
+UNKNOWN
+
+
